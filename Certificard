@@ -1,0 +1,23 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap" rel="stylesheet">
+
+<section>
+  <header>
+    <img src="https://pbs.twimg.com/profile_images/1376344966172188678/slb7EkiC_400x400.jpg"/>
+    </header>
+<h1>Angela Mahlke (@angelistao)</h1>
+
+<div> 
+  <h2>Insígnias da Imersão.dev</h2>
+    <ol> 
+      <li>💰 Conversor de Moedas</li>
+      <li>🔢 Calculadora</li>
+      <li>🔮 Mentalista</li>
+      <li>🎬 AluraFlix</li>
+      <li>🏆 Tabela de classificação</li>
+      <li>🃏 SuperTrunfo</li>
+      <li>🌐 Certificard</li>
+    </ol>
+  
+</div>
+</section>
