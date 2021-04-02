@@ -1,4 +1,6 @@
 ## Olá, Pessoal
 
-- Deixo aqui o repositório com os códigos usados na Imersão-Dev.
+Deixarei aqui:
+- Os códigos usados na Imersão-Dev;
+- Meu projeto de portfólio
 Feedbacks são bem-vindos.
