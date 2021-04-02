@@ -1,0 +1,53 @@
+body {
+  background-color: teal;
+  font-family: "Lexend", sans-serif;
+}
+
+
+section {
+  -webkit-box-shadow: 5px 0px 50px 5px rgba(0,0,0,0.64); 
+   box-shadow: 5px 0px 50px 5px rgba(0,0,0,0.64);
+  box-shadow: ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top: 200px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5%;
+}
+
+section h1 {
+  text-align: center;
+  font-size: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+header {
+  background-image: url('https://i.pinimg.com/originals/57/c8/18/57c818ac367a295692f154855e9f89f1.jpg');
+  background-size: cover;
+  border-radius: 5%;
+  height: 120px;
+}
+
+div {
+  padding: 18px;
+  border-style: inset;
+  background-color: #bac3d6;
+}
+
+img {
+  width:150px;
+  height:150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-45%);
+  border: 8px solid white;
+}
