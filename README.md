@@ -1,4 +1,4 @@
-## Olá, Pessoal
+## Olá
 
 Deixarei aqui:
 - Os códigos usados na Imersão-Dev;
